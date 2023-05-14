@@ -1,4 +1,5 @@
 from ua.lviv.iot.algo.part1.lab7.Chair.Chair import Chair
+
 get_instance = Chair.get_instance
 
 chairs = []
@@ -14,4 +15,3 @@ chairs.append(chair2)
 
 for chair in chairs:
     print(chair)
-
