@@ -14,3 +14,4 @@ chairs.append(chair2)
 
 for chair in chairs:
     print(chair)
+

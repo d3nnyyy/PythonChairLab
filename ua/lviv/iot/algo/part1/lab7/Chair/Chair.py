@@ -68,3 +68,4 @@ class Chair:
 
     def is_occupied(self):
         return self.owner is not None
+
